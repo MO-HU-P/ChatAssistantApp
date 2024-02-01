@@ -4,10 +4,12 @@ The Chat Assistant App is a Python application designed to facilitate interactiv
 ## Features:
 
 ### Text Generation Page:
+!(UI_preview_1.png)
 -	Users can generate text based on their input using OpenAI's language models.
 -	Customizable options include model selection, chat behavior, temperature, and max tokens.
 
 ### PDF Chat Page:
+!(UI_preview_2.png)
 -	Supports uploading PDF files for conversations. Utilizes Conversational Retrieval Chains to provide responses based on the content of uploaded PDFs.
 
 ### API Key Authentication:
